@@ -36,9 +36,7 @@ import java.util.Scanner;
             } else if(hiddenNumber == userInput){
                 System.out.println("Your Guessed number is correct");
                 running = false;
-               
-                
-               
+        
             }
             else {
                 System.out.println("Invalid Input");
